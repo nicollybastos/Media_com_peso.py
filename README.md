@@ -44,10 +44,7 @@ Nome da disciplina: Cálculo I
 Nota do aluno em Cálculo I: 6.0
 Peso para Cálculo I (Pressione Enter para peso 1): 1
 
-==============================
-       RESULTADO FINAL
-==============================
+RESULTADO FINAL
 Nome do aluno: Nicolly
 Média do aluno: 7.7
 Resultado: APROVADO
-==============================
